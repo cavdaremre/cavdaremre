@@ -1,32 +1,50 @@
 # Hi, I'm Emre Çavdar 👋
 
-Software Engineer with nearly **4 years of experience** in web development.
+**Full Stack Software Engineer** focused on building scalable and maintainable web applications.
 
 ## 🚀 About Me
 
-- 🎯 Focus: **Full Stack Web Development**
-- 🧩 Frontend: **React, Redux, TypeScript**
-- ⚙️ Backend: **Java, Kotlin, Spring Boot, Maven**
-- 🗄️ Database: **PostgreSQL, MySQL**
-- 🐳 Environment: **Docker, Linux**
-- 🌍 Also experienced with: **WordPress, PHP**
-- 🇬🇧 Actively improving my English (**Duolingo Score: 129**)
+- 📍 Ankara, Türkiye
+- 💼 Software Engineer @ [Sigun Information Technology and Consultancy](https://www.sigun.com.tr/en)
+- 🧠 ~4 years of hands-on software development experience
+- 🌐 Portfolio website: coming soon
 
-## 🔭 Currently Working On
+## 🛠️ Core Skills
 
-- Private projects:
-  - **SalesApp – Ahu Kozmetik**
-- Personal portfolio website (**coming soon**)
+- **Frontend:** React.js, Next.js, TypeScript, JavaScript, Redux
+- **Backend:** Java, Kotlin, Spring Boot, Maven, PHP
+- **Database:** PostgreSQL, MySQL
+- **DevOps & Environment:** Docker, Linux, AWS, CI/CD, Git, GitLab
+- **Other:** WordPress
 
-## 🌐 Projects I Built
+## 💼 Experience Highlights
 
-- [Sport's Fundamental](https://www.sportsfundamental.com/anasayfa/)  
-  I built this website to strengthen the camp’s digital presence and help them reach young athletes and families more effectively.  
-  The platform communicates their vision: bringing together elite and developing basketball players, identifying performance gaps, and supporting their path toward a professional level with qualified coaching and international knowledge sharing.
+### Full Stack Developer — Sigun Information Technology and Consultancy (Feb 2023 – Present)
 
-- [PlantArchMag](https://plantarchmag.com/)  
-  I developed this platform to help PlantArch present its institutional identity and editorial vision in digital space.  
-  The website showcases PlantArch as a multidisciplinary publication at the intersection of nature, landscape architecture, ecology, design, and art — supporting knowledge sharing, ecological awareness, and interdisciplinary learning for students, academics, and professionals.
+- Built Spring Boot + PostgreSQL backend systems for large-scale platforms.
+- Delivered production React SPAs with integrations such as live video and gamification.
+- Developed full-stack solutions combining Java/Kotlin backends and React frontends.
+- Worked on performance optimization, API integrations, and scalable architecture.
+
+### Full Stack Developer — Sport's Fundamental (Sep 2022 – Feb 2023)
+
+I built the digital platform for Sport’s Fundamental to present their basketball camp vision online:
+
+> Bringing young and elite athletes together, identifying development gaps for professional-level progress, and sharing knowledge with qualified coaches and international participants.
+
+- Developed and maintained a web platform supporting camp communication and operations.
+- Improved user experience and performance with practical frontend/backend enhancements.
+- Helped the organization represent its program and mission more effectively in digital channels.
+
+### Project — PlantArchMag
+
+🔗 [plantarchmag.com](https://plantarchmag.com/)
+
+I developed PlantArch’s digital presence to reflect its institutional identity and publication vision:
+
+- A multidisciplinary platform at the intersection of landscape architecture, nature, ecology, and design.
+- Structured content experience for students, academics, and professionals.
+- A strong digital foundation for editorial growth, visibility, and community engagement.
 
 ## 📜 Certifications
 
@@ -36,15 +54,16 @@ Software Engineer with nearly **4 years of experience** in web development.
 - **PostgreSQL Database Administrators**  
   [View Certificate](https://kayit.linux.org.tr/media/2024/kis/certs/9cfa42507788a371fbe70f6e4235d31bf7a81d8694c45beaf241c64130f3f00b.png)
 
+## 🌍 Languages
+
+- Turkish (Native)
+- English (Professional Working Proficiency)
+
 ## 📚 Currently Reading
 
-- **Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People**
+- *Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People*
 
-## 🤝 Connect With Me
+## 🤝 Contact
 
 - LinkedIn: [linkedin.com/in/cavdaremre](https://www.linkedin.com/in/cavdaremre/)
-- Email: [emrecvdr20@gmail.com](mailto:emrecvdr20@gmail.com)
-
----
-
-_Designing and building digital platforms that help brands and communities express themselves better online._
+- Email: [emrecvdr20@gmail.com](mailto:em)
