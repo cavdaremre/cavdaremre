@@ -89,7 +89,6 @@ I build scalable, high-performance web applications from concept to deployment. 
       <p align="center">
         <code>React Native</code> <code>Expo</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Stripe</code>
       </p>
-      
     </td>
   </tr>
 </table>
