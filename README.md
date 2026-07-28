@@ -131,11 +131,6 @@ I build scalable, high-performance web applications from concept to deployment. 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cavdaremre&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cavdaremre&theme=dark&hide_border=true&layout=compact&langs_count=8" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=cavdaremre&theme=dark&hide_border=true" alt="Streak Stats">
 </p>
 
